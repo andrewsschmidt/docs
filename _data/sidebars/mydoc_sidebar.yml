@@ -72,6 +72,10 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
+    - title: AVD Framework
+      url: /mydoc_avdframework.html
+      output: web, pdf
+
   - title: Authoring
     output: web, pdf
 
