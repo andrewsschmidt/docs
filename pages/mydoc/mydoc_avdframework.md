@@ -1,14 +1,14 @@
 ---
 title: AVD Framework
-summary: "AVD Framework Reference Material"
-date: 2023-11-06 12:00:00 -500
 tags: [avd, azure virtual desktop]
+keywords: 
+summary: "AVD Framework Reference Material"
 sidebar: mydoc_sidebar
 permalink: mydoc_avdframework.html
 folder: mydoc
 ---
 
-# Design Process
+## Design Process
 
 This is the stage of the process where we collect end-user requirements and determine if they can be integrated into one of our general POC/Pilot models for testing and data collection for users requirements.
 
